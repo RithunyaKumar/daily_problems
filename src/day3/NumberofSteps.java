@@ -25,3 +25,4 @@ public class NumberOfSteps {
 
         sc.close();
     }
+}
