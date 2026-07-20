@@ -70,7 +70,7 @@ class ATM extends Bank {
 }
 
 // Main Class
-public class ATMSystem {
+public class Bank{
     public static void main(String[] args) {
 
         // Parent reference, Child object (Polymorphism)

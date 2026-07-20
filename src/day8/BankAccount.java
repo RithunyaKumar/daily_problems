@@ -29,7 +29,7 @@ class ATM extends BankAccount {
 }
 
 // Main Class
-public class ATMSystem {
+public class Bank {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

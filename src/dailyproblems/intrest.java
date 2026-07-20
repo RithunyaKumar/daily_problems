@@ -1,6 +1,6 @@
 package dailyproblems;
     import java.util.Scanner;
-    public class interest {
+    public class intrest {
         public static void main(String[] args) {
 
             Scanner sc = new Scanner(System.in);

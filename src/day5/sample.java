@@ -2,7 +2,7 @@ package day2;
 
 import java.util.Scanner;
 
-        public class KItemsMaximumSum {
+        public class sample{
 
             public static void main(String[] args) {
 
